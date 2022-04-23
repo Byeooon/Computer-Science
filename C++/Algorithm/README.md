@@ -1,4 +1,3 @@
-###### About C++ 
-* Algorithm
-- stockAnalysis
-- Square_1
+###### About C++ Algorithm
+* stockAnalysis
+* square.1
