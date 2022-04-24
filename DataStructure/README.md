@@ -1,2 +1,3 @@
 ###### DataStructure
 * Stack
+* Linear queue
