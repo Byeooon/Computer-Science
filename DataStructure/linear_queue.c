@@ -81,6 +81,7 @@ int main()
 
     dequeue(&Q);
     dequeue(&Q);
+    dequeue(&Q);
 
     print(&Q);
 
