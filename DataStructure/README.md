@@ -1,3 +1,3 @@
 ###### DataStructure
 * Stack
-* Linear queue
+* Linear queue / Circle queue
