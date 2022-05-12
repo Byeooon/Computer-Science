@@ -1,3 +1,3 @@
 ###### about Object-oriented programming
 * Kvector
-* Avector
+* Avector (Subclass of Kvector)
