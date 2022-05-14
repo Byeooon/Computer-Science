@@ -42,15 +42,7 @@ Kvector::Kvector(const int sz, const int value):len(sz)
         m[i] = value;
     total_len += sz;
 }
-// Kvector::Kvector(int sz, int value):len(sz)
-// {
-//     serial = ++total_len;
-//     cout << this << " : Kvector(int)" << endl;
-//     if(!sz){m = nullptr; return;}
-//     m = new int[sz];
-//     for(int i = 0; i < sz; i++)
-//         m[i] = value;
-// }
+
 Kvector::Kvector(const Kvector &obj)
 {
     cout << this << " : Kvector(Kvector&)" << endl;
