@@ -1,2 +1,2 @@
-###### Bitset
+###### Bitset Vector
 * Makefile
