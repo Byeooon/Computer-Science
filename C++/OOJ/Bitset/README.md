@@ -1,6 +1,6 @@
 ###### Bitset Vector
 * Makefile
-* Kvector.h
-* Avector.h
-* Bvector.h
+* K,A,Bvector.h
 * BitSet.h
+* K,A,Bvector.cpp
+* BitSet.cpp
