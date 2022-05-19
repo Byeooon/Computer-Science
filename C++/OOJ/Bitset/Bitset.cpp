@@ -10,6 +10,10 @@ void BitSet::insert(int v){ set(v);}
 
 BitSet operator+(const BitSet& v1, const BitSet& v2)
 {
+    if(v1.NBITS != v2.NBITS)
+    {
+        throw IncompatibleException(v1,v2);
+    }
     BitSet r(v1.NBITS);
     for (int i=0; i<r.len; i++) r.u_m[i] = v1.u_m[i] |v2.u_m[i];
     return r;
@@ -32,7 +36,16 @@ int main(int argc, char *argv[]){
 
     cout << "b1 = " << b1 << endl;
     cout << "b2 = " << b2 << endl;
-    cout << "b1 + b2 = " << b1+b2 << endl;
+    try
+    {
+        cout << "b1 + b2 = " << b1 + b2 << endl;
+    }
+    catch(IncompatibleException& error) 
+    {
+        cout << error.print() << endl;
+        cout << "the size of the first Bitset is " << error.nbits1 << endl;
+        cout << "the size of the second Bitset is " << error.nbits2 << endl;
+    }
 
     return 0;
 
