@@ -18,6 +18,7 @@ TreeNode* insertNode(TreeNode* root, element key)
         node->right = NULL;
         return node;
     }
+    
     if(key < root->key)
         root->left = insertNode(root->left, key);
     else if(key > root->key)
