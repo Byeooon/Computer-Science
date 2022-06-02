@@ -30,6 +30,7 @@ TreeNode* insertNode(TreeNode* root, element key)
 int getNodeCount(TreeNode* node)
 {
     int count = 0;
+    
     if(node != NULL)
         count = 1 + getNodeCount(node->left) + getNodeCount(node->right);
 
