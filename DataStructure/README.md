@@ -1,4 +1,4 @@
-###### DataStructure
+###### DataStructure (written in C)
 * Stack
 * Linear queue / Circle queue
 * Linked list
