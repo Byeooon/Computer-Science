@@ -32,7 +32,7 @@ int getLeafCount(TreeNode* node)
     if(node->left == NULL && node->right == NULL)
         return 1;
     else //only visit
-        count = getLeafCount(root->left) + getLeafCount(root->right);
+        count = getLeafCount(node->left) + getLeafCount(node->right);
     return count;
 }
 
