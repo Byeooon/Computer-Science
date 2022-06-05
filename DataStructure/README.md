@@ -5,3 +5,4 @@
 * Double linked list
 
 * Binary Search Tree
+* Heap
