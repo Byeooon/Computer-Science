@@ -6,4 +6,4 @@
 
 * Binary Search Tree
 * Heap
-* adjacent Matrix
+* Adjacent Matrix
