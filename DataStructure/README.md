@@ -7,5 +7,5 @@
 * Binary Search Tree
 * Heap
 * Adjacent Matrix / List
-* Sort (Selection / Insertion / Bubble / Shell)
-* Sort ( Merge )
+* Sort ( Selection / Insertion / Bubble / Shell )
+* Sort ( Merge / Quick )
