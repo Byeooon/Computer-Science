@@ -1,2 +1,2 @@
-* Sort ( Selection / Insertion / Bubble / Shell / Heap)
+* Sort ( Selection / Insertion / Bubble / Shell )
 * Sort ( Merge / Quick )
