@@ -1,11 +1,9 @@
 ###### DataStructure (written in C)
 * Stack
-* Linear queue / Circle queue
-* Linked list
-* Double linked list
-
+* Queue
+* Linked List
 * Binary Search Tree
 * Heap
-* Adjacent Matrix / List
+* Graph
 * Sort
 * Search
