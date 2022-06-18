@@ -1,2 +1,2 @@
 ###### Search 
-* ( iBinary / rBinary )
+* ( Binary - iterative / recursive )
