@@ -1,2 +1,3 @@
 ###### Search 
-* ( Binary - iterative / recursive )
+* Binary - ( iterative / recursive )
+* Sequential
