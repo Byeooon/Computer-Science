@@ -1,4 +1,5 @@
 ###### about Binary Search Tree
-* Delete / Search
+* Delete 
+* Search
 * Count ( node / leaf )
 * Height
