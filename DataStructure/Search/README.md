@@ -1,4 +1,5 @@
 ###### Search 
 * Binary - ( iterative / recursive )
 * Sequential
-* indexed Sequential
+* Indexed Sequential
+* Interpolation
