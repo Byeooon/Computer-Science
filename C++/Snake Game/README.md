@@ -1,4 +1,4 @@
-### C++ SNAKE GAME
+### C++ SNAKE GAME ( Team Earthworm 🪱 )
 * snake.cpp
 * Makefile
 ----------
