@@ -4,5 +4,5 @@
 ----------
 * Run with 
 ```
-$make
+$ make
 ```
