@@ -3,7 +3,7 @@
 * snake.cpp
 * Makefile
 ----------
-* Run with 
+* Running command
 ```
 $ make
 ```
